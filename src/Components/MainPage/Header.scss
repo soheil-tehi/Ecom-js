@@ -15,7 +15,6 @@
 
         .course-logo {
             display: flex;
-            // justify-content: center;
             gap: 5%;
         }
 
@@ -49,7 +48,7 @@
             right: 0;
             margin: 200px auto;
             z-index: 2;
-            animation: up-down 3s infinite alternate linear ;
+            animation: up-down 3s infinite alternate linear;
 
             @keyframes up-down {
                 0% {
