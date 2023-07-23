@@ -2,5 +2,10 @@
     display: flex;
     flex-direction: column;
     overflow: hidden;
-    
+
+    .testdel{
+        width: 500px;
+        height: 500px;
+        background-color: red;
+    }
 }

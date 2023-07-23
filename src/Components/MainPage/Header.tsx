@@ -1,6 +1,6 @@
 import { motion } from 'framer-motion';
-import './Header.scss';
 import Animate from './animate';
+import './Header.scss';
 
 function Header() {
 
